@@ -22,10 +22,10 @@ namespace UserManagement.MVC.Data
             //Seed Default User
             var defaultUser = new ApplicationUser
             {
-                UserName = "superadmin",
-                Email = "superadmin@gmail.com",
-                FirstName = "Mukesh",
-                LastName = "Murugan",
+                UserName = "Timothy",
+                Email = "admin@gmail.com",
+                FirstName = "Timothy",
+                LastName = "Malaka",
                 EmailConfirmed = true,
                 PhoneNumberConfirmed = true
             };
